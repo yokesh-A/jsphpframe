@@ -1,3 +1,3 @@
-hello
+Welcome to my framework 
 
-<a url="/about?page=545">next</a>
+<a url="/newpage">newpage</a>  <!-- use url always in the place of href -->
